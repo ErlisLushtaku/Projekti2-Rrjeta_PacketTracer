@@ -1,1 +1,3 @@
 # Projekti2-Rrjeta_PacketTracer
+
+This project models the network of the Gulistan educational insitution in Kosovo. This institution has five schools in Kosovo. For each school there is a router. Each device in the network can ping any other device in the network. A detailed explanation of the required parts of the project and their implementation can be found in the files: [Dizajnimi i rrjetës me Packet Tracer - 2021.pdf](https://github.com/ErlisLushtaku/Projekti2-Rrjeta_PacketTracer/files/8457771/Dizajnimi.i.rrjetes.me.Packet.Tracer.-.2021.pdf), [Raporti ne rrjeta.pdf](https://github.com/ErlisLushtaku/Projekti2-Rrjeta_PacketTracer/files/8457772/Raporti.ne.rrjeta.pdf).
